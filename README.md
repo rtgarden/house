@@ -1,6 +1,10 @@
-Issue tracker and open source hardware for my house
+Maintenance, repair, sensor deployment and open source hardware for my house
 ===================================================
 
-Catalog of 3D printed parts used to fix up or otherwise enhance my house. Also
-includes issue tracker for things needing handyman attention.
-Next: sensor location and appliance positioning.
+sensor location and appliance positioning.
+
+room by room maintenance
+
+repair que
+
+Catalog of 3D printed parts used to fix up or otherwise enhance my house. 
