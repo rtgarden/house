@@ -25,17 +25,17 @@ categories:
 
 ----------
 
-daily
+daily: D
 
-every 4 days
+every 4 days: 4D
 
-weekly
+weekly: W
 
-every 2 weeks
+every 2 weeks:  2W
 
-monthly
+monthly: M
 
-every two months
+every two months: 2M
 
 
 Supplies
