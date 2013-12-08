@@ -1,24 +1,24 @@
 Bathroom cleaning needs:
 -----------------
-bathtub/shower 
+bathtub/shower ----W
 
-sink
+sink----D
 
-mirror
+mirror----D4
 
-counter
+counter----W2
 
-toilet
+toilet----D4
 
-shelves
+shelves----W2
 
-cabinets
+cabinets----M2
 
-floor
+floor----W
 
-fixtures
+fixtures----M
 
-walls
+walls----M2
 
 
 Categories:
@@ -26,15 +26,15 @@ Categories:
 
 daily: D
 
-every 4 days: 4D
+every 4 days: D4
 
 weekly: W
 
-every 2 weeks:  2W
+every 2 weeks:  W2
 
 monthly: M
 
-every two months: 2M
+every two months: M2
 
 
 Supplies:
