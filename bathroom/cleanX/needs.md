@@ -21,8 +21,7 @@ fixtures
 walls
 
 
-categories:
-
+Categories:
 ----------
 
 daily: D
@@ -38,8 +37,7 @@ monthly: M
 every two months: 2M
 
 
-Supplies
-
+Supplies:
 --------
 Myers verbena counter spray
 
