@@ -1,0 +1,36 @@
+list of sensors
+===============
+
+temperature indoors/outdoors
+
+humidity     indoor/outdoors
+
+rainfall    outside
+
+wind direction   outside
+
+wind speed  outside
+
+camera stations
+
+monitor setups
+
+electrical outlet monitoring
+
+propane or gas gauge
+
+motin sensors
+
+presence sensors
+
+water quality monitoring
+
+air quality monitor
+
+smoke alarm
+
+fire alarm system
+
+perimeter security system
+
+aquarium and aquaculure sensors
