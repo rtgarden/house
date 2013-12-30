@@ -14,4 +14,55 @@ Virtualization
 
 creating virtualized spaces to have the same affordances as a physical space.
 
-examples: gameroom, camping gear, closets
+house
+=====
+
+aquaculture  
+
+barbeque
+
+bathroom
+
+bedroom
+
+clothescloset
+
+diningroom
+
+frontroom
+
+garden
+
+glampingbox
+
+guestroom
+
+kitchen
+
+library
+
+livingroom
+
+musicroom
+
+office
+
+petroom
+
+sensors
+
+sewingroom
+
+storage
+
+studio
+
+toyroom
+
+utility closet
+
+workshop
+
+
+ 
+, closets
