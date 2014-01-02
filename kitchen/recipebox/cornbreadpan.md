@@ -9,15 +9,18 @@ skillet style cornbread
 
 1 teaspoon Salt
 
-1 cup Buttermilk
+1 cup Buttermilk/ or yogurt and milk
 
 ½ cups Milk
 
 1 whole Egg
 
-1 Tablespoon Baking Powder
+2 teaspoons Baking Powder
 
 ½ teaspoons Baking Soda
+
+2 Tablespoons sugar
+
 
 Preheat oven to 
 
