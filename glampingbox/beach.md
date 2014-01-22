@@ -1,6 +1,10 @@
 Beach or Pool Gear:
 ===================
 
+sun hat
+
+sunglasses
+
 swimwear
 
 towels
@@ -13,6 +17,6 @@ beach chairs
 
 possibly grill and/or supplies
 
-first aid kit + sunscreen
+first aid kit + sunscreen (bullfrog)
 
 beach blanket or base rug
