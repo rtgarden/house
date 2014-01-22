@@ -1,21 +1,27 @@
 supplies and tools for outdoor cooking:
 ========================================
 
-skewers
+metal skewers/ bamboo skewers
 
-fish basket
+fish basket/ veg basket
 
-grill cleaner
+grill cleaner/ wire brush
 
-turning tongs
+turning tongs/ fork
 
-grill cover for camping
+open pit grill rack for camping (locate at cabin)
 
-weber for country charcoal use
+weber for country charcoal use (or leave at cabin)
 
-propane grill for apt
+propane grill for apt (need small)
 
-hibachi
+hibachi for beach and camping (need basic small)
 
-charcoal
+half block and brick for kebab (locate at cabin)
 
+Market supplies
+=================
+
+charcoal or mequite supplies
+
+spice kit salt pepper and condiments
