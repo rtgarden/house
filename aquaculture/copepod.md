@@ -1,5 +1,7 @@
 copepods and tank life
 =======================
+get tank ready for the freshwater/brackish hawaiian shrimp first
+
 
 track existing "seed shrimp"
 
