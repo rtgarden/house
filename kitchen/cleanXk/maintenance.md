@@ -1,5 +1,42 @@
 Kitchen areas:
 ----------------
+
+Sort:
+-----
+    upper cabinets
+
+    lower cabinets
+
+    all drawers
+
+    under the sink
+
+    junk drawer
+
+    food storage containers (especially the ones with no tops/bottoms!)
+
+    utensil drawer
+
+    pantry
+
+    refrigerator
+
+    freezer
+
+    vitamin storage
+
+    spice cabinet/rack
+
+    mismatched bowls or cups
+
+    countertops
+
+    top of the fridge
+
+
+
+Clean:
+-----
 sink
 
 counter
