@@ -12,6 +12,12 @@ Virtualization: Maintenance, repair, storage,sensor deployment and open source h
 Virtualization
 ================
 
+virtualization means having a clear sense of inventory of items and positioning in time and space.
+
+these items can be easily maintained and replaced.
+
+understanding what is needed is harder than it seems.
+
 creating virtualized spaces to have the same affordances as a physical space.
 
 house
