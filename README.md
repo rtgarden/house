@@ -63,6 +63,4 @@ utility closet
 
 workshop
 
-
- 
-, closets
+clothing closets
