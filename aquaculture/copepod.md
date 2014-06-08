@@ -13,3 +13,13 @@ collect south bay brine shrimp etc
 using fish bowls and tanks propagate
 
 keep tank algae and plant list
+
+brought freshwater eleodia and algae w copepods down on march 15.
+
+got olae upae in the mail around may 15
+
+The olae upae are doing well in the 10 gal tank. they especially like the lava type rocks.
+
+not sure if they will breed. 
+
+the tank is mostly freshwater
