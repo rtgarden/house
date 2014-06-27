@@ -25,6 +25,8 @@ teahouse stuff
 
 campfire gear: 
 
-fish baskets for fire, --storage upstairs closet
+grill bag w/clamps and grill brush sm round grill
+
+cinderblock 1/2 or single
 
 skewers,
