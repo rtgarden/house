@@ -7,6 +7,8 @@ sunglasses
 
 swimwear
 
+blanket or tatami mat
+
 towels
 
 shorts cover ups
