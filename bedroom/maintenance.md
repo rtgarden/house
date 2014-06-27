@@ -2,6 +2,8 @@ Bedroom Maintenance:
 
 sort:
 -----
+    bills and mail
+
     under the bed
 
     dressers
