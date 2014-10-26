@@ -4,7 +4,7 @@ Dickens Fair costumes
 Catt
 ----
 
-Browncoat (downstairs closet)
+Browncoat (upstairs closet)
 
 tophat (black hatbox, storage)
 
@@ -21,7 +21,7 @@ red bow tie
 
 Michael:
 
-2 pair plaid pants (downstairs closet)
+2 pair plaid pants (upstairs closet)
 
 vest
 
