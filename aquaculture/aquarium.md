@@ -13,9 +13,23 @@ intended conditions:
 
 related to sensors
 
-plants
+plants:
 
-furniture
+eleodia
 
-related to microculture/microgreens
+algae from eel river
+
+furniture:
+
+(all in w beta)
+
+ceramic boat
+
+ceramic temple dock
+
+rock w hole
+
+related to microculture/microgreens:
+
+small hydro set up in snail colony 3 with 4 pots.
 
