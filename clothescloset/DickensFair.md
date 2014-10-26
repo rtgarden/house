@@ -14,7 +14,7 @@ white shirt
 
 white shirt bue stripes ruffled front
 
-red pirate sash
+red pirate sash (plastic box in closet)
 
 red bow tie
 
