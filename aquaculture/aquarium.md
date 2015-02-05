@@ -1,6 +1,8 @@
 aquarium
 ========
 
+10 gal main tank:
+
 list of fish :
 
 Beta copper red from Japan, dragon face oct 2014 in 10 gal main tank.
@@ -28,8 +30,20 @@ ceramic boat
 ceramic temple dock
 
 rock w hole
+------------------------------
+Hydro combo 5 gal tank:
+
+tubifex worm naturalized colony
+
+snails, algae, some eleodia
 
 related to microculture/microgreens:
 
-small hydro set up in snail colony 3 with 4 pots.
+small hydro was tried with 3 out of  4 pots.
+
+very pale, most herbs couldnt prosper without light
+
+needs a lighting set up for the hydroponic part to work really
+
+
 
