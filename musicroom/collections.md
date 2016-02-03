@@ -1,7 +1,14 @@
 music room
 ==========
 
-instruments
+instruments:
+
+electrolyre
+piano
+saxaphone
+
+clarinet x2
+ukelaile
 
 supplies and care routine for instruments
 
