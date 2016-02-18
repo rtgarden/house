@@ -1,4 +1,4 @@
-gear for music camps
+gear for music camps or group camping
 ====================
 
 mosquito supplies
@@ -15,16 +15,20 @@ icebox
 
 camping chairs
 
+crate
+
 camping rugs
 
-lights lanterns
+sparklelights, lanterns
 
-camping stove and fuel
+camping stove and fuel or grill for campfire
+
+urn, ibrik, 1/2 cinderblock for kebab
 
 pads and bedding
 
 outdoor grill supplies
 
-wash pan/wash clth/ soap/ pitcher
+wash pan/wash cloth/ soap/ pitcher
 
 solar showers/5gal bucket
